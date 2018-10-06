@@ -9,16 +9,31 @@
     
     <img src= "https://1.bp.blogspot.com/_ybYER6FR9eU/TQ-80CCWMnI/AAAAAAAAABs/Y6QYT3C6bYQ/s1600/Dj+Kool+Herc.jpg" alt = "hip hop"/>
 
-    
-    
-    <p>DJing and turntablism, MCing/rapping, breakdancing, graffiti art and beatboxing
+    <article>
+        Hip hop or hip-hop, is a subculture and art movement developed in the Bronx 
+        in New York City during the late 1970s. The origins of the word are often disputed. 
+        It is also argued as to whether hip hop started in the South or West Bronx.[
+        While the term hip hop is often used to refer exclusively to hip hop music 
+        (also called rap),[6] hip hop is characterized by nine elements, of which only 
+        four elements are considered essential to understand hip hop musically. The main 
+        elements of hip hop consist of four main pillars. 
+    </article>
+
+
+
+
+    <main>
+    <h3>The Elements</h3>
+        <p>DJing and turntablism, MCing/rapping, breakdancing, graffiti art and beatboxing
     are the creative outlets that collectively make up hip hop culture and its revolutionary 
     aesthetic. Like the blues, these arts were developed by African American communities to 
     enable people to make a statement, whether political or emotional and participate in 
     community activities. These practices spread globally around the 1980s as fans could "make
     it their own" and express themselves in new and creative ways in music, dance and other arts.</p>
+    </main>
 
-    <h2>Djing</h2>
+    <h3>Djing</h3>
+    
     <p>DJing and turntablism are the techniques of manipulating sounds and creating music and 
     beats using two or more phonograph turntables (or other sound sources, such as tapes, CDs 
     or digital audio files) and a DJ mixer that is plugged into a PA system.[89] One of the 
@@ -28,7 +43,8 @@
     Grand Wizzard Theodore, and Grandmaster Caz made further innovations with the introduction 
     of "scratching", which has become one of the key sounds associated with hip hop music.</p>
     
-    <h2>Emceeing</h2>
+    <h3>Emceeing</h3>
+    
     <p>Rapping (also known as emceeing,MCing,spitting (bars),or just rhymingrefers to "spoken or 
     chanted rhyming lyrics with a strong rhythmic accompaniment".[94] Rapping typically features 
     complex wordplay, rapid delivery, and a range of "street slang", some of which is unique to 
@@ -41,7 +57,7 @@
     tradition as throughout history verbal acrobatics or jousting involving rhymes were common 
     within the Afro-American community.</p>
 
-    <h2> Graffiti</h2>
+    <h3> Graffiti</h3>
     
     <p>Graffiti is the most controversial of hip hop's elements, as a number of the most notable 
     graffiti pioneers say that they do not consider graffiti to be an element of hip hop, including 
@@ -54,7 +70,7 @@
 
      <img src="http://phibs.com/wp-content/uploads/2008/11/Clifton-Hill-Action-B-W-sml-1024x734.jpg" alt="Hip Hop"</img>
     
-     <h2> Breaking</h2>
+     <h3> Breaking</h3>
     
      <p>Breaking, also called B-boying/B-girling or breakdancing, is a dynamic, rhythmic style of 
      dance which developed as one of the major elements of hip hop culture. Like many aspects of hip hop 
@@ -65,8 +81,9 @@
      playing on a boom box or PA system.</p>
      <img src="https://25nam.abbank.vn/storage/app/media/uploaded-files/tumblr_mm0wu4IvAw1qdf95wo1_1280.jpg" alt="Hip Hop"</img>
 
-    <h2>Beatboxing</h2>
-    Beatboxing is the technique of vocal percussion, in which a singer imitates drums and other percussion 
+    <h3>Beatboxing</h3>
+    
+    <p>Beatboxing is the technique of vocal percussion, in which a singer imitates drums and other percussion 
     instruments with her or his voice. It is primarily concerned with the art of creating beats or rhythms 
     using the human mouth.[118] The term beatboxing is derived from the mimicry of the first generation of 
     drum machines, then known as beatboxes. It was first popularized by Doug E. Fresh.[119] As it is a way 
@@ -76,6 +93,11 @@
     for MC's to rap over.</p>
 
 
+</body>
 
 
- </body>
+<br>
+<br>
+
+
+ <footer> LC 101 | HTML_Me_Something Assignment </footer>
