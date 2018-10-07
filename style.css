@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    width: 200;
+    margin: 10 auto;
+    font-family: arial;
+}
+
+nav{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+}
+
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/gravel.png");
+}
+
