@@ -2,11 +2,12 @@ h1{
     text-align: center;
     width: 200;
     margin: 10 auto;
-    font-family: arial;
+    
 }
 
 nav{
     text-align: center;
+    color: rgb(12, 4, 59);
 }
 
 img{
@@ -17,3 +18,8 @@ body{
     background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/gravel.png");
 }
 
+h1,h3{
+    color: rgb(12, 4, 59);
+    font-family: arial;
+    padding: 
+}
