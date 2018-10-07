@@ -8,10 +8,13 @@ h1{
 nav{
     text-align: center;
     color: rgb(12, 4, 59);
+    margin: 0 auto;
+    font-family: "arial"
 }
 
 img{
     height: 300px;
+    margin: 5 auto;
 }
 
 body{
@@ -20,6 +23,7 @@ body{
 
 h1,h3{
     color: rgb(12, 4, 59);
-    font-family: arial;
-    padding: 
+    font-family: "arial black";
+    
+    padding-bottom: 5px;
 }
