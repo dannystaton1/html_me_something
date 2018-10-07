@@ -2,7 +2,8 @@ h1{
     text-align: center;
     width: 200;
     margin: 10 auto;
-    
+    font-size:400%;
+    font-stretch: expanded;
 }
 
 nav{
@@ -24,6 +25,20 @@ body{
 h1,h3{
     color: rgb(12, 4, 59);
     font-family: "arial black";
+    font-stretch: expanded;
     
     padding-bottom: 5px;
+}
+
+#history{
+  
+
+    font-style: italic;
+    font-style: oblique;
+
+}
+
+#video{
+    display:block;
+    margin: 0 auto;
 }
